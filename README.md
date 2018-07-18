@@ -23,7 +23,7 @@ My Jupyter notebook solutions for exercises in the course "Python for Data Scien
 - K Nearest Neighbors
 - Decision Trees and Random Forests
 - SUpport Vector Machines
-- K Means Clustering
+- K-Means Clustering
 - Principal Component Analysis
 - Recommender Systems
 - Natural Language Processing
